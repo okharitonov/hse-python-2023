@@ -13,7 +13,7 @@ def greet_user(name: str) -> str:
     :return: приветствие
     """
 
-    greeting = 'Hi, ' + name + '!\n'
+    greeting = 'Hi there, ' + name + '!\n'
 
     return greeting
 
